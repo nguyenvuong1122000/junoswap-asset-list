@@ -1,8 +1,8 @@
 {
   "chainId": "juno-1",
   "chainName": "Juno",
-  "rpc": "ws://65.21.129.121:2071/websocket",
-  "rest": "ws://65.21.129.121:2071/websocket",
+  "rpc": "https://rpc-juno.ecostake.com:443",
+  "rest": "https://rest-juno.ecostake.com:443",
   "stakeCurrency": {
     "coinDenom": "JUNO",
     "coinMinimalDenom": "ujuno",
