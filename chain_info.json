@@ -1,8 +1,8 @@
 {
   "chainId": "juno-1",
   "chainName": "Juno",
-  "rpc": "https://rpc-juno.itastakers.com:443/",
-  "rest": "https://lcd-juno.itastakers.com:443/",
+  "rpc": "http:65.21.129.121:2071/",
+  "rest": "http:65.21.129.121:2074/",
   "stakeCurrency": {
     "coinDenom": "JUNO",
     "coinMinimalDenom": "ujuno",
